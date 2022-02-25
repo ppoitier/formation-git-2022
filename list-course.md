@@ -1,5 +1,5 @@
 # Liste de course
 
-- Du pain gris
+- Du pain gris et du pain blanc
 - Du beurre salé
 - Du chocolat au lait
