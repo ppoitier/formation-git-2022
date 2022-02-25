@@ -1,5 +1,5 @@
 # Liste de course
 
 - Du pain
-- Du beurre
-- Du chocolat
+- Du beurre salé
+- Du chocolat au lait
